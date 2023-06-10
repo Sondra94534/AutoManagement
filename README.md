@@ -1,4 +1,4 @@
-\# Automobile Management System
+# Automobile Management System
 
 The Automobile Management System is a Java program that allows users to manage and manipulate information about automobiles. It provides functionality to add, view, and perform operations on automobiles.
 
