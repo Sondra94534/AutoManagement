@@ -1,3 +1,10 @@
+/*
+Created by Sondra Hoffman
+CSC320 - Programming 1
+Colorado State University - Global Campus
+Date: 10/06/2019
+Purpose: A basic program for managing vehicle information */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
