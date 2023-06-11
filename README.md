@@ -15,7 +15,7 @@ To use the Automobile Management System, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/automobile-management-system.git
+   git clone https://github.com/Sondra94534/AutoManagement.git
    ```
 
 2. Open the project in your preferred Java development environment.
