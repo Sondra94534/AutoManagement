@@ -20,7 +20,7 @@ To use the Automobile Management System, follow these steps:
 
 2. Open the project in your preferred Java development environment.
 
-3. Run the `Automobile.java` file.
+3. Run the `AutoManagement.java` file.
 
 4. Follow the instructions provided by the program to interact with the system.
 
